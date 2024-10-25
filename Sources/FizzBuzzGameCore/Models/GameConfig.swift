@@ -11,5 +11,5 @@ public struct GameConfig: Equatable, Sendable {
     }
 
     public let difficulty: GameDifficulty
-    public let totalRound = 50
+    public let totalRound = 15
 }
